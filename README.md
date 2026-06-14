@@ -19,10 +19,7 @@ My overarching goal is to understand **human cognition** in **naturalistic envir
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> <a href="https://www.biorxiv.org/content/10.64898/2026.06.02.729319v1">bioRxiv</a>
 
 
-If you're interested in collaborating or discussing research, feel free to reach out.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Closed Mailbox with Raised Flag" width="25" height="25" />  If you're interested in collaborating or discussing research, feel free to reach out.
 
-
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Closed Mailbox with Raised Flag" width="25" height="25" /> [yhuang994@gatech.edu](mailto:yhuang994@gatech.edu)
 
 
