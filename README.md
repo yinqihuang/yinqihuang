@@ -6,12 +6,23 @@
 
 </br>
 
-<h3> Virtual Reality • Spatial Navigation • Decision Making </h3>
+<h3> Virtual Reality • Perception and Action • Control Theory </h3>
 
-My overarching goal is to investigate human memory in a naturalistic environment using computational models. I am a big fan of naturalistic stimuli because they contain rich and dynamic information, similar to what we receive in the real world. Read more about [naturalistic stimuli](https://naturalistic-data.org/content/intro.html) in this notebook written by Dr. Luke Chang, Dr. Emily Finn, and Dr. Jeremy Manning.
+My overarching goal is to understand **human cognition** in **naturalistic environments** using **computational models**. I focus on **sensorimotor integration**, examining how the brain generates predictions, detects prediction errors, and uses these errors to update behaviour.
 
-Currently, I am a PhD student, studying the decision making in spatial navigation in a virtual environment, co-advised by Dr. Arne Ekstrom and Dr. Robert Wilson. Read more about why VR is naturalistic in my paper in <a href="https://rdcu.be/dnUrW">Nature Reviews Psychology</a> and my notes on [Spatial Cognitive Map](https://yinqi-h.gitbook.io/ml-models/neuroscience-paper/spatial-cognitive-map).
+**Selected work**
 
-My undergraduate project on investigating the impact of time and event boundaries on episodic memory using movie stimuli, advised by Dr. Morgan Barense, was presented at Context and Episodic Memory Symposium and Lake Ontario Visionary Establishment.
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="28" /> <a href="https://rdcu.be/dnUrW">Nature Reviews Psychology</a>
 
-If you are interested in my work, or want to do a student project with me, please feel free to <a href="mailto:yinqi@email.arizona.edu">email me.
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Bookmark Tabs" width="25" height="25" /> <a href="https://www.sciencedirect.com/science/article/pii/S0028393225002866">Neuropsychologia</a>
+
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> <a href="https://www.biorxiv.org/content/10.64898/2026.06.02.729319v1">bioRxiv</a>
+
+
+If you're interested in collaborating or discussing research, feel free to reach out.
+
+
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Closed Mailbox with Raised Flag" width="25" height="25" /> [yhuang994@gatech.edu](mailto:yhuang994@gatech.edu)
+
+
